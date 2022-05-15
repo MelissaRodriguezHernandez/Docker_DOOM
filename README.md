@@ -10,7 +10,7 @@
 
 ## Pasos
 
-Primero debemos bajarnos y descargar el siguiente archivo
+Primero debemos bajarnos y descomprimir el siguiente archivo
 
 [Link de descarga](https://web.archive.org/web/20160310005603if_/https://gideonred.com/bins/dockerdoomd.tar.gz)
 
