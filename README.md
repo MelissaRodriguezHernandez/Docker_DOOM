@@ -8,7 +8,7 @@
 
 -Estar en un sistema operativo Linux
 
-## Pasos
+## Contenedores
 
 Primero debemos bajarnos y descomprimir el siguiente archivo
 
@@ -30,8 +30,9 @@ for i in {1..2} ; do docker run -d -t ubuntu:14.04; done
 ```
 ![ejecucion contenedor](https://github.com/MelissaRodriguezHernandez/Docker_DOOM/blob/main/img/segundo%20comando.png)
 
-## Resultados
+## Conexión
 
-Si todo se ha ejecutado correctamente se abrira el juego DOOM totalmente funcional
+Ahora con los contenedores iniciados procederemos a conectarnos por un VNC Viewer al juego, en mi caso utilizaré el programa Remmina que viene por defecto en mi sistema Linux.
+El puesto es 5900 y la contraseña es 1234. 
 
-![imagen juego]()
+![imagen juego](https://github.com/MelissaRodriguezHernandez/Docker_DOOM/blob/main/img/juego.jpeg)
